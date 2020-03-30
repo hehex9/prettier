@@ -1,7 +1,16 @@
 {
   "name": "@hehe.x/prettier",
   "description": "prettier config used by hehe.x",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "hehe <xpc1993@gmail.com>",
+  "keywords": [
+    "prettier",
+    "prettier-config",
+    "hehe"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hehex9/prettier-config"
+  },
   "license": "MIT"
 }
